@@ -1,5 +1,5 @@
 
-Im making this Complex app using JavaScript, Node.js, MongoDB, includes dealing with:
+I'm making this Complex app using JavaScript, Node.js, MongoDB, includes dealing with:
 
 The Web Browser Environment, control the Web Browser with JavaScript
 
